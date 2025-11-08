@@ -25,11 +25,11 @@
                                     <StackPanel Orientation="Horizontal">
                                         <TextBlock Text="{Binding Name}" FontSize="18" FontWeight="Bold" Foreground="#333333" TextWrapping="Wrap"/>
                                         <TextBlock Text=" — " FontSize="18" FontWeight="Bold" Foreground="#333333" Margin="5,0"/>
-                                        <TextBlock Text="{Binding EquipmentType}" FontSize="18" FontWeight="Bold" Foreground="#333333" Margin="0,5,0,0"/>
+                                        <TextBlock Text="{Binding EquipmentType.Name}" FontSize="18" FontWeight="Bold" Foreground="#333333" Margin="0,5,0,0"/>
                                     </StackPanel>
-                                    <TextBlock Text="{Binding Manufacturer, StringFormat='Производитель: {0}'}" FontSize="14" Foreground="#666666" Margin="0,10,0,0"/>
-                                    <TextBlock Text="{Binding Supplier, StringFormat='Поставщик: {0}'}" FontSize="14" Foreground="#666666" Margin="0,5,0,0"/>
-                                    <TextBlock Text="{Binding RentalUnit}" FontSize="14" Foreground="#666666" Margin="0,10,0,0"/>
+                                    <TextBlock Text="{Binding Maker.Name, StringFormat='Производитель: {0}'}" FontSize="14" Foreground="#666666" Margin="0,10,0,0"/>
+                                    <TextBlock Text="{Binding Supplier.Name, StringFormat='Поставщик: {0}'}" FontSize="14" Foreground="#666666" Margin="0,5,0,0"/>
+                                    <TextBlock Text="{Binding RentalUnit.Name}" FontSize="14" Foreground="#666666" Margin="0,10,0,0"/>
                                     <TextBlock Text="{Binding Description}" FontSize="12" Foreground="#888888" TextWrapping="Wrap" Margin="0,10,0,0" MaxHeight="100"/>
                                 </StackPanel>
                             </Border>
@@ -39,7 +39,7 @@
                                     <RowDefinition Height="*"/>
                                 </Grid.RowDefinitions>
                                 <Border Grid.Row="0" Padding="8,4" CornerRadius="4" Margin="0,0,0,10" BorderBrush="Black" BorderThickness="1">
-                                    <TextBlock Text="{Binding RentalPrice, StringFormat='Цена аренды: {0} Р'}" FontSize="16" FontWeight="Bold" TextAlignment="Center"/>
+                                    <TextBlock Text="{Binding RentalCost, StringFormat='Цена аренды: {0} Р'}" FontSize="16" FontWeight="Bold" TextAlignment="Center"/>
                                 </Border>
                                 <Border Grid.Row="1" Width="80" Height="80" CornerRadius="4" VerticalAlignment="Top" HorizontalAlignment="Center" BorderBrush="Black" BorderThickness="1">
                                     <TextBlock Text="{Binding Discount, StringFormat='-{0}%'}" FontSize="18" FontWeight="Bold" VerticalAlignment="Center" HorizontalAlignment="Center"/>
