@@ -81,3 +81,4 @@ C:\Users\Иван\File\WPF\4 курс\MusicRental\bin\Debug\net8.0-windows\Image
 C:\Users\Иван\File\WPF\4 курс\MusicRental\bin\Debug\net8.0-windows\Images\2.jpg
 C:\Users\Иван\File\WPF\4 курс\MusicRental\bin\Debug\net8.0-windows\Images\3.jpg
 C:\Users\Иван\File\WPF\4 курс\MusicRental\bin\Debug\net8.0-windows\Images\4.jpg
+C:\Users\Иван\File\WPF\4 курс\MusicRental\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
