@@ -15,6 +15,10 @@
       "RelativeMoniker": "D:0:0:{3E73849A-3CC3-4E1B-AC5C-54658C0DFC37}|MusicRental.csproj|solutionrelative:\u0441onverters\\discountconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3E73849A-3CC3-4E1B-AC5C-54658C0DFC37}|MusicRental.csproj|c:\\users\\\u0438\u0432\u0430\u043D\\file\\wpf\\4 \u043A\u0443\u0440\u0441\\musicrental\\class\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E73849A-3CC3-4E1B-AC5C-54658C0DFC37}|MusicRental.csproj|solutionrelative:class\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3E73849A-3CC3-4E1B-AC5C-54658C0DFC37}|MusicRental.csproj|c:\\users\\\u0438\u0432\u0430\u043D\\file\\wpf\\4 \u043A\u0443\u0440\u0441\\musicrental\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E73849A-3CC3-4E1B-AC5C-54658C0DFC37}|MusicRental.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -28,10 +32,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3E73849A-3CC3-4E1B-AC5C-54658C0DFC37}|MusicRental.csproj|c:\\users\\\u0438\u0432\u0430\u043D\\file\\wpf\\4 \u043A\u0443\u0440\u0441\\musicrental\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E73849A-3CC3-4E1B-AC5C-54658C0DFC37}|MusicRental.csproj|solutionrelative:appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E73849A-3CC3-4E1B-AC5C-54658C0DFC37}|MusicRental.csproj|c:\\users\\\u0438\u0432\u0430\u043D\\file\\wpf\\4 \u043A\u0443\u0440\u0441\\musicrental\\class\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E73849A-3CC3-4E1B-AC5C-54658C0DFC37}|MusicRental.csproj|solutionrelative:class\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E73849A-3CC3-4E1B-AC5C-54658C0DFC37}|MusicRental.csproj|c:\\users\\\u0438\u0432\u0430\u043D\\file\\wpf\\4 \u043A\u0443\u0440\u0441\\musicrental\\class\\equipmenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -65,7 +65,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
@@ -86,19 +86,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DiscountConverter.cs",
-              "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\File\\WPF\\4 \u043A\u0443\u0440\u0441\\MusicRental\\\u0421onverters\\DiscountConverter.cs",
-              "RelativeDocumentMoniker": "\u0421onverters\\DiscountConverter.cs",
-              "ToolTip": "C:\\Users\\\u0418\u0432\u0430\u043D\\File\\WPF\\4 \u043A\u0443\u0440\u0441\\MusicRental\\\u0421onverters\\DiscountConverter.cs",
-              "RelativeToolTip": "\u0421onverters\\DiscountConverter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T20:03:05.344Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "PriceConverter.cs",
               "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\File\\WPF\\4 \u043A\u0443\u0440\u0441\\MusicRental\\\u0421onverters\\PriceConverter.cs",
@@ -112,13 +99,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\File\\WPF\\4 \u043A\u0443\u0440\u0441\\MusicRental\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\\u0418\u0432\u0430\u043D\\File\\WPF\\4 \u043A\u0443\u0440\u0441\\MusicRental\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAAADAAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBMAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-27T03:56:17.789Z",
               "EditorCaption": ""
@@ -137,7 +124,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": "Equipment.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\File\\WPF\\4 \u043A\u0443\u0440\u0441\\MusicRental\\Class\\Equipment.cs",
+              "RelativeDocumentMoniker": "Class\\Equipment.cs",
+              "ToolTip": "C:\\Users\\\u0418\u0432\u0430\u043D\\File\\WPF\\4 \u043A\u0443\u0440\u0441\\MusicRental\\Class\\Equipment.cs",
+              "RelativeToolTip": "Class\\Equipment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T16:17:03.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DiscountConverter.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\File\\WPF\\4 \u043A\u0443\u0440\u0441\\MusicRental\\\u0421onverters\\DiscountConverter.cs",
+              "RelativeDocumentMoniker": "\u0421onverters\\DiscountConverter.cs",
+              "ToolTip": "C:\\Users\\\u0418\u0432\u0430\u043D\\File\\WPF\\4 \u043A\u0443\u0440\u0441\\MusicRental\\\u0421onverters\\DiscountConverter.cs",
+              "RelativeToolTip": "\u0421onverters\\DiscountConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T20:03:05.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "XamlReader.cs",
               "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\AppData\\Local\\Temp\\.vsdbgsrc\\ee34aec267e065140087abd7fd236fad482e6d3ee1f4162ad1b181c8d9923474\\XamlReader.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\ee34aec267e065140087abd7fd236fad482e6d3ee1f4162ad1b181c8d9923474\\XamlReader.cs",
@@ -150,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\File\\WPF\\4 \u043A\u0443\u0440\u0441\\MusicRental\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "AssemblyInfo.cs",
@@ -162,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\File\\WPF\\4 \u043A\u0443\u0440\u0441\\MusicRental\\AppDbContext.cs",
               "RelativeDocumentMoniker": "AppDbContext.cs",
@@ -171,18 +184,6 @@
               "ViewState": "AgIAABEAAAAAAAAAAAA3wBIAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-08T16:20:56.137Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Equipment.cs",
-              "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\File\\WPF\\4 \u043A\u0443\u0440\u0441\\MusicRental\\Class\\Equipment.cs",
-              "RelativeDocumentMoniker": "Class\\Equipment.cs",
-              "ToolTip": "C:\\Users\\\u0418\u0432\u0430\u043D\\File\\WPF\\4 \u043A\u0443\u0440\u0441\\MusicRental\\Class\\Equipment.cs",
-              "RelativeToolTip": "Class\\Equipment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T16:17:03.789Z"
             },
             {
               "$type": "Document",
